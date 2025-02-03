@@ -3,3 +3,8 @@
 obj/
 
 secrets/
+
+appsettings.json
+
+appsettings.Development.json
+
